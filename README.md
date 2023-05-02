@@ -1,4 +1,4 @@
-https://e-commerce-fullstack-react-app.vercel.app/
+https://e-commerce-iletov.vercel.app/
 
 e-Commerce created with Next.js, Sanity.io and Stripe
 
